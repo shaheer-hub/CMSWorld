@@ -9,7 +9,7 @@
   "author": "shahheer",
   "license": "ISC",
   "dependencies": {
-    "bcrypt": "^3.0.6",
+    "bcrypt": "^5.0.0",
     "body-parser": "1.7.0",
     "express": "^4.8.7",
     "jsonwebtoken": "^7.4.3",
